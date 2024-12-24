@@ -3,6 +3,8 @@
 This project uses both **Machine Learning (ML)** algorithms and an **Artificial Neural Network (ANN)** to classify whether a star system contains an exoplanet (`LABEL` 1) or not (`LABEL` 0). The dataset includes flux values collected from stellar light curves, which are analyzed and modeled to make accurate predictions.
 
 ---
+The dataset can be downloaded from kaggle. https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data
+---
 
 ## Libraries Used
 
