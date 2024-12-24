@@ -73,9 +73,3 @@ This project uses both **Machine Learning (ML)** algorithms and an **Artificial 
 
 ---
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/exoplanet-classification.git
-   cd exoplanet-classification
